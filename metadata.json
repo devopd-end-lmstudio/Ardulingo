@@ -1,0 +1,8 @@
+{
+  "name": "ArduLingo",
+  "description": "Learn Arduino and ESP32 programming through interactive bite-sized lessons, quizzes, code completion, and a Morse code trainer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
